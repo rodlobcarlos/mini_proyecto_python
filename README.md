@@ -9,8 +9,8 @@ Script en Python diseñado para localizar y ejecutar un script de Bash externo (
 │   └── script.sh            # Script de Bash objetivo
 └── mini_proyecto_python/
     ├── README.md
-    ├── informe.txt          # Archivo de salida / informe
     └── scritp.py            # Script principal en Python
+    └── .gitignore
 ```
 
 📋 Requisitos previos
